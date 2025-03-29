@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-
-
+## Name:JAGADEESH J
+## Reg.no:212223110015
 ## Aim:
 
 To study the execution of various Linux operating system commands.
